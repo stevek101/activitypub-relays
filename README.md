@@ -47,6 +47,7 @@ https://open.relay.pfalz.social/inbox | This relay is currently full, new joins 
 https://relay.asonix.dog/inbox
 https://relay.breakblocks.social/inbox | Only for instances primarily based around Minecraft.
 https://relay.dariox.club/inbox | Contact @kate@dariox.club prior to joining.
+https://relay.indieauthors.social/inbox | This relay will admit other writing, author, publishing, and creative-focused instances. Contact @admin@indieauthors.social
 https://relay.mastodon.kr/inbox
 https://streamb0x.de/inbox | Contact admin@joinmastodon.de to join the relay
 https://relay.bau-ha.us/inbox | thuringia + middle/east germany / non-profit / infosec contact _mt@social.bau-ha.us prior to joining.
